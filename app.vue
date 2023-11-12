@@ -1,6 +1,5 @@
 <template>
-  <div>
-    asdqwe
-  </div>
-  <NuxtPage />
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>
